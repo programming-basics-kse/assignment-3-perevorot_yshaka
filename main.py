@@ -1,6 +1,6 @@
-import pandas as pd
-import argparse
 
+import argparse
+import pandas as pd
 
 def main():
     fil_data = data[
